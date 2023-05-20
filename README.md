@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Data Analytics, Python, and SQL**
 
-- 📫 How to reach me **petexsa@gmail.com**
+- 📫 How to reach me **Twitter: @petex47**
 
 - ⚡ Fun fact **I love to run and lift weights.**
 
