@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pete Quinones IV</h1>
-<h3 align="center">A passionate Data Analyst and Python Developer from Texas</h3>
+<h3 align="center">A passionate Software Engineer from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petequinonesiv&label=Profile%20views&color=0e75b6&style=flat" alt="petequinonesiv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/petex47" target="blank"><img src="https://img.shields.io/twitter/follow/petex47?logo=twitter&style=for-the-badge" alt="petex47" /></a> </p>
 
-- 🔭 I’m currently working on **Network+ Certification and building a Data Analysis Portfolio**
+- 🔭 I’m currently working on **Network+ Certification and 100Devs Bootcamp**
 
-- 🌱 I’m currently learning **Maven Analytics and Network+ Certification**
+- 🌱 I’m currently learning **HTML, CSS, and Javascript**
 
-- 👯 I’m looking to collaborate on **Building Data Analysis and Cyber Security Projects**
+- 👯 I’m looking to collaborate on **Building projects**
 
-- 🤝 I’m looking for help with **Building Data Analysis and Cyber Security Projects**
+- 🤝 I’m looking for help with **networking and connect with awesome people!**
 
 - 📝 I regularly write articles on [https://medium.com/@petex47](https://medium.com/@petex47)
 
-- 💬 Ask me about **Data Analytics, Python, and SQL**
+- 💬 Ask me about **Life and tech**
 
 - 📫 How to reach me **Twitter: @petex47**
 
