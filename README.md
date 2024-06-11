@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CompTIA Network+ and Python.**
 
-- 📝 I regularly write articles on [https://zerotoithustle.substack.com/](https://zerotoithustle.substack.com/)
+- 📝 I regularly write articles on https://petestechnotes.beehiiv.com/
 
 - 💬 Ask me about **life and the growth to being in tech.**
 
