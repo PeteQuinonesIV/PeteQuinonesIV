@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pete Quinones IV</h1>
-<h3 align="center">A passionate Network Engineer in the making. Line Cook breaking into tech.</h3>
+<h3 align="center"> Line Cook breaking into tech. An aspiring Network Engineer </h3>
 
 <p align="left"> <a href="https://twitter.com/petex47" target="blank"><img src="https://img.shields.io/twitter/follow/petex47?logo=twitter&style=for-the-badge" alt="petex47" /></a> </p>
 
