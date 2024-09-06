@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CompTIA Network+ and Python.**
 
-- 📝 I regularly write articles on https://petex47.hashnode.dev/
+- 📝 I regularly write articles on petex47.com
 
 - 💬 Ask me about **life and the growth to being in tech.**
 
