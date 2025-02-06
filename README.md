@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **@petex47 on Twitter**
 
-- ⚡ Fun fact **I'm starting to enjoy running and lifting. Thinking about doing a marathon one day.**
+- ⚡ Fun fact **I'm starting to enjoy running and lifting. Thinking about doing a marathon one day. --UPDATE-- Got it done.**
 
  <main>
  <section id="about">
