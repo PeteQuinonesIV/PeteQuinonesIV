@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **earning my network+ certification.**
 
-- 🌱 I’m currently learning **CompTIA Network+ and Python.**
+- 🌱 I’m currently learning **CompTIA Network+ and Linux.**
 
-- 📝 I regularly write articles on petex47.com
+- 📝 I regularly write articles on petex47.substack.com
 
 - 💬 Ask me about **life and the growth to being in tech.**
 
